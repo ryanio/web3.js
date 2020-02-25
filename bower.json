@@ -67,7 +67,7 @@
     ".gitignore",
     ".jshintrc",
     ".npmignore",
-    ".travis.yml",
+    ".github",
     "gulpfile.js",
     "index.js",
     "**/*.txt"

@@ -4,7 +4,7 @@
 
 # web3.js - Ethereum JavaScript API
 
-[![Join the chat at https://gitter.im/ethereum/web3.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/web3.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)[![npm](https://img.shields.io/npm/dm/web3.svg)](https://www.npmjs.com/package/web3) [![Build Status][travis-image]][travis-url] [![dependency status][dep-image]][dep-url] [![dev dependency status][dep-dev-image]][dep-dev-url] [![Coverage Status][coveralls-image]][coveralls-url]
+[![Join the chat at https://gitter.im/ethereum/web3.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/web3.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)[![npm](https://img.shields.io/npm/dm/web3.svg)](https://www.npmjs.com/package/web3) [![Build Status][actions-image]][actions-url] [![dependency status][dep-image]][dep-url] [![dev dependency status][dep-dev-image]][dep-dev-url] [![Coverage Status][coveralls-image]][coveralls-url]
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 
 This is the Ethereum [JavaScript API][docs]
@@ -170,8 +170,8 @@ The contribution guidelines are provided in [CONTRIBUTIONS](./CONTRIBUTIONS.md)
 [docs]: http://web3js.readthedocs.io/
 [npm-image]: https://badge.fury.io/js/web3.png
 [npm-url]: https://npmjs.org/package/web3
-[travis-image]: https://travis-ci.org/ethereum/web3.js.svg
-[travis-url]: https://travis-ci.org/ethereum/web3.js
+[actions-image]: https://github.com/ethereum/web3.js/workflows/Test/badge.svg
+[actions-url]: https://github.com/ethereum/web3.js/actions
 [dep-image]: https://david-dm.org/ethereum/web3.js.svg
 [dep-url]: https://david-dm.org/ethereum/web3.js
 [dep-dev-image]: https://david-dm.org/ethereum/web3.js/dev-status.svg
