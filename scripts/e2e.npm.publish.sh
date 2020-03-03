@@ -47,8 +47,10 @@ npm-auth-to-token \
 
 # Prep branch for Lerna's git-checks
 if [[ $GITHUB_REF = 'refs/pull/'* ]]; then
+  echo "Github head ref --> ${GITHUB_HEAD_REF}"
   BRANCH=${GITHUB_HEAD_REF##*/}
 else
+  echo "Github ref --> ${GITHUB_REF}"
   BRANCH=${GITHUB_REF##*/}
 fi
 
