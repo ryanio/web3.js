@@ -154,6 +154,7 @@ Released with 1.0.0-beta.37 code base.
   - Removed old bower and meteor artifacts
   - Moved logo assets to own folder
   - Moved github assets to own folder
+- Change CI provider from Travis to Github Actions. (#3468)
 
 ### Fixed
 
